@@ -1,0 +1,6 @@
+C:\Application Testing Mphasis\Day 4\SchoolLib\SchoolLib\bin\Debug\SchoolLib.dll
+C:\Application Testing Mphasis\Day 4\SchoolLib\SchoolLib\bin\Debug\SchoolLib.pdb
+C:\Application Testing Mphasis\Day 4\SchoolLib\SchoolLib\obj\Debug\SchoolLib.csproj.AssemblyReference.cache
+C:\Application Testing Mphasis\Day 4\SchoolLib\SchoolLib\obj\Debug\SchoolLib.csproj.CoreCompileInputs.cache
+C:\Application Testing Mphasis\Day 4\SchoolLib\SchoolLib\obj\Debug\SchoolLib.dll
+C:\Application Testing Mphasis\Day 4\SchoolLib\SchoolLib\obj\Debug\SchoolLib.pdb
